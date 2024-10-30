@@ -1,0 +1,38 @@
+.wrap {
+	margin-top: 20px;
+}
+
+.ivaldi-logo {
+	width: 45px;
+	height: 45px;
+	float: left;
+	-webkit-border-radius: 1000px;
+	-moz-border-radius: 1000px;
+	border-radius: 1000px;
+	background-image: url('images/logo.jpg');
+	background-size: 45px 45px;
+}
+
+h2.title {
+	margin-left: 60px;
+}
+
+.hash h2 {
+	margin-top: 20px;
+}
+
+.hash p {
+	margin-bottom: 15px;	
+}
+
+.code {
+	background-color: #F5F5F5;
+	border: 1px solid #EFEFEF;
+	padding: 10px;
+	margin-top: 10px;
+	line-height: 35px;
+
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
